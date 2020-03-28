@@ -1,0 +1,90 @@
+body{background-image: url(special.jpg);
+	background-size: cover;
+	font-family: 'Fredoka One', cursive;
+	letter-spacing: 0.15em}
+header{background-color: #8699A4;
+	height: 50px;
+	text-align: center;
+	color:#D6C390;
+	font-weight: bold;
+	font-family: 'Fredoka One', cursive;
+	text-shadow: 2px 2px 4px white;}
+button{background-color: #18384B;
+		height: 50px;
+		width: 200px;
+		text-align: center;
+		cursor: pointer;
+		color: #D6C390;
+		font-weight: bold;
+		font-family: 'Fredoka One', cursive;
+		letter-spacing: 0.2em;
+		font-size: 120%;
+		margin-left: 10px;
+		margin-right:10px;}
+	button:hover {transform: scale(1.1);}
+h1{color: #D6C390;
+ background-color: #405F72;width: 600px;
+  text-align: center;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-family: 'Fredoka One', cursive;
+  box-shadow: 4px 5px 4px black;
+  text-shadow: 2px 2px 4px black;
+  border-radius: 10px / 10px;}
+h2{color: #18384B;
+ background: #D6C390;
+  text-align: center;
+  font-weight: bold;
+  font-style: italic;
+   font-weight: bold;
+   font-family: 'Fredoka One', cursive;
+   width: 450px;
+   text-shadow: 2px 2px 4px white;
+   border-radius: 10px / 10px;}
+h4{color: white;
+	background-color:#755F20 ;
+	height: 40px;
+	font-weight: bold;
+	line-height: 40px;
+	font-size: 130%;
+	font-family: 'Fredoka One', cursive;
+	margin-left: 20px;
+	padding-left: 20px;
+	text-shadow: 2px 2px 4px black;
+	border-radius: 10px / 10px; }
+form{background-color:#FFF2CD;font-family: 'Fredoka One', cursive; }
+input{color: black;
+	background-color: #8C513F;
+	text-align: center;
+	cursor: pointer;
+	font-family: 'Fredoka One', cursive;
+	margin-left: 50px; 
+	margin-bottom: 10px;}
+p{color: white;
+	background-color:#2B4859;
+	height: 30px;
+	line-height: 30px;
+	font-style: italic;
+	margin-left: 40px;
+	padding-left: 10px;}
+.submit,.reset{color: white;
+	height: 50px;
+	width: 100px ;
+	font-weight: bold;
+	font-size: 120%;
+	font-family: 'Fredoka One', cursive;
+	letter-spacing: 0.2em;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 30px; 
+	text-shadow: 2px 2px 4px black;
+	border-radius: 10px / 10px;}
+.submit:hover {transform: scale(1.1);}
+.reset:hover {transform: scale(1.1);}
+footer{background-color: #8699A4 ;
+	height: 30px; 
+	text-align: center;
+	font-weight: bold;
+	font-family: 'Fredoka One', cursive;
+	line-height: 30px;}
+footer:hover {transform: scale(1.1);}
